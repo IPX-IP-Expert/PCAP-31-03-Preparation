@@ -8,4 +8,5 @@ class ExampleModule:
         print(self.name)
 
     def __new__(cls):
+        print("ExampleModule.__new__()")
         return super().__new__(cls)
