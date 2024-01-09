@@ -7,6 +7,4 @@ print(sys.path)
 sys.path.append(
     "/home/deivy/Desktop/Study/PCAP-31-03-Preparation/SEC1ModuleAndPackages/Modules/"
 )
-
-
 print(f"\n...appending to system path sys.path = {sys.path} ")

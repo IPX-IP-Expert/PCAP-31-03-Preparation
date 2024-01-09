@@ -172,7 +172,6 @@ Explore these resources to gain a comprehensive understanding of the `random()` 
 
 - [Inheritance and Composition: A Python OOP Guide (Course) – Real Python](https://realpython.com/inheritance-composition-python/)
 - Python 3 Multiple Inheritance (Article) – Programiz
-
 ### Polymorphism and Overloading
 
     Learn how to use polymorphism and overloading to make your classes and objects more adaptable and versatile.
@@ -205,3 +204,8 @@ inheritance, superclass, subclass, identifying class components`
 
 ### Miscellaneous
 - [List Comprehensions](https://www.python.org/dev/peps/pep-0202/#rationale)
+- [Lambdas](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)
+- [Lambdas](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+- [Self-defined-functions](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
+- [map(),filter()](https://www.geeksforgeeks.org/python-map-function/?ref=gcse)
+- [filter()](https://www.geeksforgeeks.org/filter-in-python/?ref=lbp)
