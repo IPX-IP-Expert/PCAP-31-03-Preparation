@@ -1,4 +1,6 @@
+import platform
 import sys
+import os
 
 # Print the system path
 print(sys.path)

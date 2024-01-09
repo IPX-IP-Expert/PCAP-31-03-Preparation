@@ -71,7 +71,7 @@ Explore these resources to gain a comprehensive understanding of the `random()` 
 
 - [Python Documentation on `platform` Module](https://docs.python.org/3/library/platform.html)
 - Functions:
-  [`platform()`](https://www.geeksforgeeks.org/python-platform-module/)
+  [`platform()`](https://www.geeksforgeeks.org/platform-module-in-python/?ref=header_search)
   [`machine()`](https://docs.python.org/3/library/platform.html#platform.machine)
   [`processor()`](https://docs.python.org/3/library/platform.html#platform.processor)
   [`version()`](https://docs.python.org/3/library/platform.html#platform.processor)
@@ -207,5 +207,5 @@ inheritance, superclass, subclass, identifying class components`
 - [Lambdas](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)
 - [Lambdas](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
 - [Self-defined-functions](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
-- [map(),filter()](https://www.geeksforgeeks.org/python-map-function/?ref=gcse)
+- [map()](https://www.geeksforgeeks.org/python-map-function/?ref=gcse)
 - [filter()](https://www.geeksforgeeks.org/filter-in-python/?ref=lbp)
